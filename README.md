@@ -42,3 +42,7 @@ In this project you'll choose an api to consume. You will build an application f
 
 Use the following endpoint:: (dog breeds bay bee)
 https://dog.ceo/api/breed/samoyed/images/random/5
+
+these can be accessed on obj.message.whatever
+
+we will make a searchable thing for dogs and display them in a fun way
